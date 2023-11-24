@@ -1,0 +1,21 @@
+body{
+    background-color: #8000;
+    color: #070707;
+    margin: 0;
+}
+button{
+    background-color:#0000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+*{
+    box-sizing: border-box;
+
+}
